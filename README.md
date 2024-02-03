@@ -60,7 +60,7 @@ You can join our Discord for support or general talk [here](https://discord.com/
 
 ## The "Our Table" Icon
 
-[Alpha](https://github.com/TheAlphaStream) is the one who made the ProcursusTeam logo in the first place, and then redesigned by @sourcelocation
+[Alpha](https://github.com/TheAlphaStream) is the one who made the ProcursusTeam logo in the first place, and then edited by @sourcelocation
 
 ## Credits
 
@@ -111,6 +111,7 @@ Huge thanks to these people, we couldn't have completed this project without the
 - Nightwind: [https://twitter.com/NightwindDev](https://twitter.com/NightwindDev)
 - Nick Chan: [https://nickchan.lol](https://nickchan.lol)
 - nzhaonan: [https://twitter.com/nzhaonan](https://twitter.com/nzhaonan)
+- Oliver Tzeng: [https://github.com/olivertzeng](https://github.com/olivertzeng)
 - omrkujman: [https://twitter.com/omrkujman](https://twitter.com/omrkujman)
 - opa334: [http://github.com/opa334](http://github.com/opa334)
 - onejailbreak: [https://twitter.com/onejailbreak_](https://twitter.com/onejailbreak_)
